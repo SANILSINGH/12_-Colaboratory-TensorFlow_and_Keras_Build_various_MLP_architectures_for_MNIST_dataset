@@ -1,0 +1,1 @@
+# 12_-Colaboratory-TensorFlow_and_Keras_Build_various_MLP_architectures_for_MNIST_dataset
